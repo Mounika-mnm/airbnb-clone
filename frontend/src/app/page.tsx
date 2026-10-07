@@ -7,7 +7,7 @@ import {
   useState,
 } from "react";
 
-const API = "http://localhost:8000";
+const API = "https://airbnb-clone-backend-610v.onrender.com";
 
 type Listing = {
   id: number;
